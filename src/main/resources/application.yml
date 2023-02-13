@@ -41,3 +41,4 @@ logging:
     cn.edu.guet.springbootdemo.mapper: DEBUG
   file:
     name: D:\program\LanqiaoWeb\springboot-demo\root.log
+
